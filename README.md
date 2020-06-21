@@ -51,12 +51,14 @@ La operación de los circuitos combinacionales se entiende escribiendo las ecuac
 ![jf3](https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/jf3.png)
 
    **Figura 3.**. Tabla de verdad de un circuito combinacional
+          
 El horario laboral de una factoría es de 8 horas diarias, divididas en tres turnos: de 8 a 11 (primer turno), de 11 a 13 (segundo turno), de 13 a 16 (descanso) y de 16 a 19 (tercer turno).
 
 
 ## 5. DIAGRAMAS
 
 **5.1 Diagramas de bloques**
+
 <p style="text-align: justify;">Los tres circuitos  poseen un diagrama de bloques para explicar que  es lo que hace cada uno para resolver el problema propuesto.
   
 * Funcionamiento del Circuito  Votador se muestra en la figura #.</p>
