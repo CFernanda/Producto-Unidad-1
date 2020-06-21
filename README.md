@@ -1,16 +1,9 @@
-# Producto Unidad 1
-#Informe
-
+## Producto Unidad 1
+## Informe
 1. PLANTEAMIENTO DEL PROBLEMA
-
 Dentro de los circuitos digitales es necesario poder interpretar y analizar condiciones y situaciones planteadas para la implementación de un circuito. En los circuitos propuestos se explica un evento determinado con parámetros en los que se desarrolla, son estos los puntos que se deben analizar y representar por medio de planteamiento de variables de entrada y salida, resolución de tablas de verdad, obtención de funciones, simplificación y finalmente el diseño y la implementación optimizada y requerida para cada circuito en los simuladores y laboratorios virtuales que sirven para representar estos circuitos.Además de todos los procesos anteriores, es necesario realizar la ejecución de uno de los circuitos planteados en la plataforma App Inventor, con las mismas características que posea la tabla de verdad resultante del análisis.
-
-
-
 2. OBJETIVOS
-
 **OBJETIVO GENERAL**
-
 Resolver tres tipos de circuitos combinacionales con diferentes condiciones cada uno, mediante el análisis e implementación utilizando simuladores virtuales de circuitos digitales con las diferentes compuertas, para verificar su funcionamiento además en App Inventor realizar uno de los tres circuitos.
 
 **OBJETIVOS ESPECÍFICOS**
