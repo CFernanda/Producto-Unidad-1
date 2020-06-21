@@ -2,7 +2,7 @@
 ## Informe
 ## 1. PLANTEAMIENTO DEL PROBLEMA
 
-Dentro de los circuitos digitales es necesario poder interpretar y analizar condiciones y situaciones planteadas para la implementación de un circuito. En los circuitos propuestos se explica un evento determinado con parámetros en los que se desarrolla, son estos los puntos que se deben analizar y representar por medio de planteamiento de variables de entrada y salida, resolución de tablas de verdad, obtención de funciones, simplificación y finalmente el diseño y la implementación optimizada y requerida para cada circuito en los simuladores y laboratorios virtuales que sirven para representar estos circuitos.Además de todos los procesos anteriores, es necesario realizar la ejecución de uno de los circuitos planteados en la plataforma App Inventor, con las mismas características que posea la tabla de verdad resultante del análisis.
+<p style="text-align: justify;">Dentro de los circuitos digitales es necesario poder interpretar y analizar condiciones y situaciones planteadas para la implementación de un circuito. En los circuitos propuestos se explica un evento determinado con parámetros en los que se desarrolla, son estos los puntos que se deben analizar y representar por medio de planteamiento de variables de entrada y salida, resolución de tablas de verdad, obtención de funciones, simplificación y finalmente el diseño y la implementación optimizada y requerida para cada circuito en los simuladores y laboratorios virtuales que sirven para representar estos circuitos.Además de todos los procesos anteriores, es necesario realizar la ejecución de uno de los circuitos planteados en la plataforma App Inventor, con las mismas características que posea la tabla de verdad resultante del análisis.</p>
 
 ## 2. OBJETIVOS
 
@@ -27,7 +27,7 @@ Dentro de los circuitos digitales es necesario poder interpretar y analizar cond
 
 ![jf1]( https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/jf1.png)
 
-   **Figura1** Diagrama de un circuito lógico combinacional
+   **Figura 1.** Diagrama de un circuito lógico combinacional
 
 <p style="text-align: justify;"> Es un circuito combinacional con "m” entradas y "n" salidas. Las salidas que se obtengan en un determinado instante van a depender de las entradas en ese preciso instante. Estos circuitos se caracterizan porque no almacenan información. Las salidas están relacionadas con las entradas a través de una función booleana.</p>
 
@@ -63,13 +63,14 @@ El horario laboral de una factoría es de 8 horas diarias, divididas en tres tur
 
 ![Fgimg1.PNG](https://github.com/CFernanda/Producto-Unidad-1/blob/master/Img/Fgimg1.PNG)
 
-   **Figura** Funcionamiento del Circuito Votador, Entradas, Proceso y Salida
+   **Figura 4** Funcionamiento del Circuito Votador, Entradas, Proceso y Salida
    
  * Funcionamiento del Circuito  Asignador de turno se muestra en la figura #.</p>
 
+![jbloques](https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/jbloques.png)
 ![Fgimg1.PNG](https://github.com/CFernanda/Producto-Unidad-1/blob/master/Img/Fgimg1.PNG)p
 
-   **Figura** Funcionamiento del Circuito Votador, Entradas, Proceso y Salida
+   **Figura5** Funcionamiento del Circuito Asignador, Entradas, Proceso y Salida
    
 * Funcionamiento del Circuito  Comparador de dos numeros de dos bits se muestra en la figura #.</p>
 
