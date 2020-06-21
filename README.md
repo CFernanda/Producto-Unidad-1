@@ -119,6 +119,30 @@ En la Tabla 2 se muestra los componentes electrónicos Para la realización del 
    |      1|   AND        |     7408       |
    |      1|   NOR        |     7408       |
 
+**Tabla 3. Componentes electronicos del Circuito Votador
+  | **N°**|**Componentes Electronicos**	|    
+   |-------|--------------|
+   |      5|  Resistencias de 330       |    
+   |      1|  Dip Switch 3 entradas       |     
+   |      1|   Fuente de 5 V     |   
+   |      1|   Led Green  | 
+   
+**Tabla 4: Datos de los integrados usados el Circuito Asignador de Turnos**
+
+   | **N°**|**Integrados**	|  **Códigos**    |     
+   |-------|--------------|----------------|
+   |      1|   XOR	      |     7486       |
+   |      1|   AND        |     7408       |
+   |      1|   NOR        |     7408       |
+
+En la Tabla 3 se muestra los componeentes electrónicos usados para el Circuito Votador.
+   | **N°**|**Componentes Electronicos**	|    
+   |-------|--------------|
+   |      5|  Resistencias de 330       |    
+   |      1|  Dip Switch 3 entradas       |     
+   |      1|   Fuente de 5 V     |   
+   |      1|   Led Green  | 
+                       
                        
 
 
