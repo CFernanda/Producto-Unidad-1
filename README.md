@@ -9,10 +9,13 @@
 
 4.  MARCO TEÓRICO
 
+
+
+
+
 5. DIAGRAMAS
 
-5.1. Diagramas de bloques.
-
+5.1. Diagramas de bloques
 5.2. Diagramas eléctricos.
 
 6. LISTA DE COMPONENTES
