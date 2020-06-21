@@ -27,7 +27,7 @@
 
 ![jf1]( https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/jf1.png)
 
-   **Figura 1.** Diagrama de un circuito lógico combinacional
+   **Figura 1:** Diagrama de un circuito lógico combinacional
 
 <p style="text-align: justify;"> Es un circuito combinacional con "m” entradas y "n" salidas. Las salidas que se obtengan en un determinado instante van a depender de las entradas en ese preciso instante. Estos circuitos se caracterizan porque no almacenan información. Las salidas están relacionadas con las entradas a través de una función booleana.</p>
 
@@ -37,7 +37,7 @@ Así, un circuito combinacional que tiene 3 entradas: A, B y C, y dos salidas F,
 
 ![jf2]( https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/jf2.png)
 
-**Figura 2.** Circuito combinacional con compuertas lógicas
+**Figura 2:** Circuito combinacional con compuertas lógicas
 
 <p style="text-align: justify;"> Los dispositivos electrónicos más elementales son las puertas lógicas y los bloques lógicos, que forman los circuitos lógicos. Estos últimos se pueden ver como un conjunto de dispositivos que manipulan de una manera determinada las señales electrónicas que les llegan (las señales de entrada), y generan como resultado otro conjunto de señales (las señales de salida). 
 Existen dos grandes tipos de circuitos lógicos: </p> 
@@ -50,41 +50,63 @@ La operación de los circuitos combinacionales se entiende escribiendo las ecuac
 
 ![jf3](https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/jf3.png)
 
-   **Figura 3.**. Tabla de verdad de un circuito combinacional
+   **Figura 3:**. Tabla de verdad de un circuito combinacional
           
-El horario laboral de una factoría es de 8 horas diarias, divididas en tres turnos: de 8 a 11 (primer turno), de 11 a 13 (segundo turno), de 13 a 16 (descanso) y de 16 a 19 (tercer turno).
-
-
 ## 5. DIAGRAMAS
 
 **5.1 Diagramas de bloques**
 
-<p style="text-align: justify;">Los tres circuitos  poseen un diagrama de bloques para explicar que  es lo que hace cada uno para resolver el problema propuesto.
+<p style="text-align: justify;">Los tres circuitos  poseen un diagrama de bloques para explicar que  es lo que hace cada uno para resolver el problema propuesto.</p>
   
-* Funcionamiento del Circuito  Votador se muestra en la figura #.</p>
+* Funcionamiento del Circuito  Votador se muestra en la figura 4.</p>
 
 ![Fgimg1.PNG](https://github.com/CFernanda/Producto-Unidad-1/blob/master/Img/Fgimg1.PNG)
 
-   **Figura 4** Funcionamiento del Circuito Votador, Entradas, Proceso y Salida
+   **Figura 4:** Funcionamiento del Circuito Votador, Entradas, Proceso y Salida.
    
- * Funcionamiento del Circuito  Asignador de turno se muestra en la figura #.</p>
+ * Funcionamiento del Circuito  Asignador de turno se muestra en la figura 5.</p>
 
 ![Fgimg3.PNG](https://github.com/CFernanda/Producto-Unidad-1/blob/master/Img/Fgimg3.PNG)
 
-   **Figura5** Funcionamiento del Circuito Asignador, Entradas, Proceso y Salida
+   **Figura 5:** Funcionamiento del Circuito Asignador, Entradas, Proceso y Salidas,
    
-* Funcionamiento del Circuito  Comparador de dos numeros de dos bits se muestra en la figura #.</p>
+* Funcionamiento del Circuito  Comparador de dos números de dos bits se muestra en la figura 6.</p>
 
 ![Fgimg2.PNG](https://github.com/CFernanda/Producto-Unidad-1/blob/master/Img/Fgimg2.PNG)
 
-   **Figura** Funcionamiento del Circuito Comparador, Entradas, Proceso y Salidas
+   **Figura 6:** Funcionamiento del Circuito Comparador, Entradas, Proceso y Salidas.
 
+**5.2 Diagramas Electrónico**
 
+A continuación se muestran diagramas Electronicos de los diseños de los 3 circuitos propuestos. 
 
+*Circuito Votador*
 
+![jEsquemaElectronico](https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/jDiagramaElectronico.png)
+   
+   **Figura 7:** Diseño de Circuito Asignador de Turnos 
+   
+*Circuito Asignador de Turnos*
 
-6. LISTA DE COMPONENTES
+![jEsquemaElectronico](https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/jDiagramaElectronico.png)
+   **Figura 8:** Diseño de Circuito Asignador de Turnos 
 
+*Circuito Comparador *
+
+![jEsquemaElectronico](https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/jDiagramaElectronico.png)
+
+   **Figura 9:** Diseño de Circuito Comparador
+
+## 6. LISTA DE COMPONENTES
+
+En la tabla numero 1 se muestra que para la simulacion de los tres circuitos se utilizó dos tipos de simuladores, y para el programa se una aplicación.
+**Tabla 1: Herramientas de Software usadas para el diseño de los 3 circuitos.**
+
+      |     **Herramientas de Software**      |                 
+      |---------------------------------------|
+      |            Proteus                    | 
+      |       Constructor Virtual             |
+      |          App Inventor                 | 
 7. MAPA DE VARIABLES
 
 8. EXPLICACIÓN DEL CÓDIGO FUENTE
