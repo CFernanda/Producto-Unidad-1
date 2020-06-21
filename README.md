@@ -2,7 +2,7 @@
 ## Informe
 ## 1. PLANTEAMIENTO DEL PROBLEMA
 
-Dentro de los circuitos digitales es necesario poder interpretar y analizar condiciones y situaciones planteadas para la implementación de un circuito. En los circuitos propuestos se explica un evento determinado con parámetros en los que se desarrolla, son estos los puntos que se deben analizar y representar por medio de planteamiento de variables de entrada y salida, resolución de tablas de verdad, obtención de funciones, simplificación y finalmente el diseño y la implementación optimizada y requerida para cada circuito en los simuladores y laboratorios virtuales que sirven para representar estos circuitos.Además de todos los procesos anteriores, es necesario realizar la ejecución de uno de los circuitos planteados en la plataforma App Inventor, con las mismas características que posea la tabla de verdad resultante del análisis.
+<p style="text-align: justify;">Dentro de los circuitos digitales es necesario poder interpretar y analizar condiciones y situaciones planteadas para la implementación de un circuito. En los circuitos propuestos se explica un evento determinado con parámetros en los que se desarrolla, son estos los puntos que se deben analizar y representar por medio de planteamiento de variables de entrada y salida, resolución de tablas de verdad, obtención de funciones, simplificación y finalmente el diseño y la implementación optimizada y requerida para cada circuito en los simuladores y laboratorios virtuales que sirven para representar estos circuitos.Además de todos los procesos anteriores, es necesario realizar la ejecución de uno de los circuitos planteados en la plataforma App Inventor, con las mismas características que posea la tabla de verdad resultante del análisis.#.</p>
 
 ## 2. OBJETIVOS
 
@@ -69,8 +69,7 @@ El horario laboral de una factoría es de 8 horas diarias, divididas en tres tur
    
  * Funcionamiento del Circuito  Asignador de turno se muestra en la figura #.</p>
 
-![jbloques](https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/jbloques.png)
-![Fgimg1.PNG](https://github.com/CFernanda/Producto-Unidad-1/blob/master/Img/Fgimg1.PNG)p
+![Fgimg1.PNG](https://github.com/CFernanda/Producto-Unidad-1/blob/master/Img/Fgimg1.PNG)
 
    **Figura5** Funcionamiento del Circuito Asignador, Entradas, Proceso y Salida
    
