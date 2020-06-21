@@ -160,3 +160,24 @@ En la Tabla 3 se muestra los componeentes electrónicos usados para el Circuito 
 12. RECOMENDACIONES
 
 13. CRONOGRAMA
+BIBLIOGRAFÍA
+Emplear normas APA para el informe e IEEE para el artículo
+
+ANEXOS
+15.1 MANUAL DE USUARIO
+
+Comparador Binario es una aplicación para Android que permitirá realizar la comparación de mayor, igual y menor entre dos números binarios de dos bits de una manera fácil y sencilla.
+1. Ingresar los números binarios que desee comparar.
+![MFig6](https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/MFig6.PNG)
+Fig. Ingreso de números
+2. Seleccionar el botón Comparar para realizar la operación.
+![MFig7](https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/MFig7.PNG)
+Fig. Selección del "Comparar"
+3. La respuesta de la comparación se verá reflejada en un color dentro del campo de texto correspondiente al valor verdadero acompañado del número cero que debe aparecer en cuando hayan ocurrido uno de los tres casos.
+![MFig8](https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/MFig8.PNG)
+Fig. Resultado obtenido 
+4. Pulsar el botón Borrar para limpiar la pantalla e ingresar nuevos valores.
+Fig. Selección del "Borrar"
+![MFig9](https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/MFig9.PNG)
+
+15.2 HOJAS TÉCNICAS
