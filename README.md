@@ -23,15 +23,15 @@ Dentro de los circuitos digitales es necesario poder interpretar y analizar cond
 ## 3. ESTADO DEL ARTE
 
 ## 4.  MARCO TEÓRICO
-Un circuito combinacional es un circuito electrónico, en el que el valor de sus salidas en un determinado instante, dependen del valor de las entradas en ese mismo instante. Es decir, es un circuito que carece de memoria. Trabajan con números, y con la tecnología con la que están realizados, estos números están representados en binario (Peiron Guárdia & Sánchez Carracedo, 2015).
+<p style="text-align: justify;">Un circuito combinacional es un circuito electrónico, en el que el valor de sus salidas en un determinado instante, dependen del valor de las entradas en ese mismo instante. Es decir, es un circuito que carece de memoria. Trabajan con números, y con la tecnología con la que están realizados, estos números están representados en binario (Peiron Guárdia & Sánchez Carracedo, 2015).</p>
 
 ![jf1]( https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/jf1.png)
 
    **Figura1** Diagrama de un circuito lógico combinacional
 
-Es un circuito combinacional con "m” entradas y "n" salidas. Las salidas que se obtengan en un determinado instante van a depender de las entradas en ese preciso instante. Estos circuitos se caracterizan porque no almacenan información. Las salidas están relacionadas con las entradas a través de una función booleana.
+<p style="text-align: justify;"> Es un circuito combinacional con "m” entradas y "n" salidas. Las salidas que se obtengan en un determinado instante van a depender de las entradas en ese preciso instante. Estos circuitos se caracterizan porque no almacenan información. Las salidas están relacionadas con las entradas a través de una función booleana.</p>
 
-Cada bit de salida de un circuito combinacional, se obtiene mediante una función booleana aplicado a las variables de entrada. Así, si un circuito tiene n salidas, necesitaremos n funciones booleanas para caracterizarlo.
+<p style="text-align: justify;"> Cada bit de salida de un circuito combinacional, se obtiene mediante una función booleana aplicado a las variables de entrada. Así, si un circuito tiene n salidas, necesitaremos n funciones booleanas para caracterizarlo.</p>
 
 Así, un circuito combinacional que tiene 3 entradas: A, B y C, y dos salidas F, G, que son dos funciones booleanas que dependen de las variables de entrada: F (A, B, C) y G (A, B, C) (Ferrera , 2016).
 
@@ -39,11 +39,12 @@ Así, un circuito combinacional que tiene 3 entradas: A, B y C, y dos salidas F,
 
 **Figura 2.** Circuito combinacional con compuertas lógicas
 
-Los dispositivos electrónicos más elementales son las puertas lógicas y los bloques lógicos, que forman los circuitos lógicos. Estos últimos se pueden ver como un conjunto de dispositivos que manipulan de una manera determinada las señales electrónicas que les llegan (las señales de entrada), y generan como resultado otro conjunto de señales (las señales de salida). 
-Existen dos grandes tipos de circuitos lógicos: 
+<p style="text-align: justify;"> Los dispositivos electrónicos más elementales son las puertas lógicas y los bloques lógicos, que forman los circuitos lógicos. Estos últimos se pueden ver como un conjunto de dispositivos que manipulan de una manera determinada las señales electrónicas que les llegan (las señales de entrada), y generan como resultado otro conjunto de señales (las señales de salida). 
+Existen dos grandes tipos de circuitos lógicos: </p> 
 
 <p style="text-align: justify;">•	Los circuitos combinacionales
 es, que se caracterizan porque el valor de las señales de salida en un momento determinado depende del valor de las señales de entrada en ese mismo momento. 
+  
 •	Los circuitos secuenciales, en los que el valor de las señales de salida en un momento determinado depende de los valores que han llegado por las señales de entrada desde la puesta en funcionamiento del circuito. Por tanto, tienen capacidad de memoria.
 La operación de los circuitos combinacionales se entiende escribiendo las ecuaciones booleanas y sus respectivas tablas de verdad (Abad, 2017).</p>
 
