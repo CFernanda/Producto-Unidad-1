@@ -69,7 +69,7 @@ El horario laboral de una factoría es de 8 horas diarias, divididas en tres tur
    
  * Funcionamiento del Circuito  Asignador de turno se muestra en la figura #.</p>
 
-![Fgimg1.PNG](https://github.com/CFernanda/Producto-Unidad-1/blob/master/Img/Fgimg1.PNG)
+![Fgimg3.PNG](https://github.com/CFernanda/Producto-Unidad-1/blob/master/Img/Fgimg3.PNG)
 
    **Figura5** Funcionamiento del Circuito Asignador, Entradas, Proceso y Salida
    
