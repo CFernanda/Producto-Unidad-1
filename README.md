@@ -111,14 +111,15 @@ En la Tabla 1 se muestra las herramientas  de software usadas para la simulacion
    
 En la Tabla 2 se muestra los componentes electrónicos Para la realización del Circuito Votador.
 
-   | **N°  |   Integrados	|   Códigos**    |     
+**Tabla 2: Datos de los integrados usados para el diseño de los 3 circuitos.**
+
+   | **N°**|**Integrados**	|  **Códigos**    |     
    |-------|--------------|----------------|
-   |      1|XOR	          |            7486|
-1	AND	7408
-1	NOR	7432
-                        | 
-   |                  |
-   |                          | 
+   |      1|   XOR	      |     7486       |
+   |      1|   AND        |     7408       |
+   |      1|   NOR        |     7408       |
+
+                       
 
 
 7. MAPA DE VARIABLES
