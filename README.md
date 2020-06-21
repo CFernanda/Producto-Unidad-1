@@ -27,9 +27,9 @@ Resolver tres tipos de circuitos combinacionales con diferentes condiciones cada
 5. DIAGRAMAS
 
 **5.1 Diagramas de bloques**
+<p style="text-align: justify;">Los tres circuitos  poseen un diagrama de bloques para explicar que  es lo que hace cada uno para resolver el problema propuesto.
+Funcionamiento del Circuito se muestra en la figura #.</p>
 
-Los tres circuitos  poseen un diagrama de bloques para explicar que  es lo que hace cada uno para resolver el problema propuesto.
-Funcionamiento del Circuito se muestra en la figura #.
 
 ![Fgimg1.PNG](https://github.com/CFernanda/Producto-Unidad-1/blob/master/Img/Fgimg1.PNG)
 
