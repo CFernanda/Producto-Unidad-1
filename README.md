@@ -31,7 +31,7 @@ Resolver tres tipos de circuitos combinacionales con diferentes condiciones cada
 Los tres circuitos  poseen un diagrama de bloques para explicar que  es lo que hace cada uno para resolver el problema propuesto.
 Funcionamiento del Circuito se muestra en la figura #.
 
-![](https://github.com/JorgeGallegos99/Informe-Trabajo-de-Investigacion/blob/master/Img/jfigura6b.png)
+![Fgimg1.PNG](https://github.com/CFernanda/Producto-Unidad-1/blob/master/Img/Fgimg1.PNG)
 
 **Figura **
 
