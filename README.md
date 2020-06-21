@@ -99,14 +99,27 @@ A continuación se muestran diagramas Electronicos de los diseños de los 3 circ
 
 ## 6. LISTA DE COMPONENTES
 
-En la tabla numero 1 se muestra que para la simulacion de los tres circuitos se utilizó dos tipos de simuladores, y para el programa se una aplicación.
+En la Tabla 1 se muestra las herramientas  de software usadas para la simulacion de los tres circuitos se utilizó dos tipos de simuladores, y la aplicacion usada para el programa del circuito Comparador.
+
 **Tabla 1: Herramientas de Software usadas para el diseño de los 3 circuitos.**
 
-      |     **Herramientas de Software**      |                 
-      |---------------------------------------|
-      |            Proteus                    | 
-      |       Constructor Virtual             |
-      |          App Inventor                 | 
+   |     **Herramientas de Software**      |                 
+   |---------------------------------------|
+   |            Proteus                    | 
+   |       Constructor Virtual             |
+   |          App Inventor                 | 
+   
+En la Tabla 2 se muestra los componentes electrónicos Para la realización del Circuito Votador.
+   | **N°  |   Integrados	|   Códigos**    |     
+   |---------------------------------------|
+   |      1	|XOR	|7486|
+1	AND	7408
+1	NOR	7432
+                        | 
+   |                  |
+   |                          | 
+
+
 7. MAPA DE VARIABLES
 
 8. EXPLICACIÓN DEL CÓDIGO FUENTE
