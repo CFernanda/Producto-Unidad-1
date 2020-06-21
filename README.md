@@ -23,6 +23,35 @@ Dentro de los circuitos digitales es necesario poder interpretar y analizar cond
 ## 3. ESTADO DEL ARTE
 
 ## 4.  MARCO TEÓRICO
+Un circuito combinacional es un circuito electrónico, en el que el valor de sus salidas en un determinado instante, dependen del valor de las entradas en ese mismo instante. Es decir, es un circuito que carece de memoria. Trabajan con números, y con la tecnología con la que están realizados, estos números están representados en binario (Peiron Guárdia & Sánchez Carracedo, 2015).
+
+![jf1]( https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/jf1.png)
+
+   **Figura1** Diagrama de un circuito lógico combinacional
+
+Es un circuito combinacional con "m” entradas y "n" salidas. Las salidas que se obtengan en un determinado instante van a depender de las entradas en ese preciso instante. Estos circuitos se caracterizan porque no almacenan información. Las salidas están relacionadas con las entradas a través de una función booleana.
+
+Cada bit de salida de un circuito combinacional, se obtiene mediante una función booleana aplicado a las variables de entrada. Así, si un circuito tiene n salidas, necesitaremos n funciones booleanas para caracterizarlo.
+
+Así, un circuito combinacional que tiene 3 entradas: A, B y C, y dos salidas F, G, que son dos funciones booleanas que dependen de las variables de entrada: F (A, B, C) y G (A, B, C) (Ferrera , 2016).
+
+![jf2]( https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/jf2.png)
+
+**Figura 2.** Circuito combinacional con compuertas lógicas
+
+Los dispositivos electrónicos más elementales son las puertas lógicas y los bloques lógicos, que forman los circuitos lógicos. Estos últimos se pueden ver como un conjunto de dispositivos que manipulan de una manera determinada las señales electrónicas que les llegan (las señales de entrada), y generan como resultado otro conjunto de señales (las señales de salida). 
+Existen dos grandes tipos de circuitos lógicos: 
+
+<p style="text-align: justify;">•	Los circuitos combinacionales
+es, que se caracterizan porque el valor de las señales de salida en un momento determinado depende del valor de las señales de entrada en ese mismo momento. 
+•	Los circuitos secuenciales, en los que el valor de las señales de salida en un momento determinado depende de los valores que han llegado por las señales de entrada desde la puesta en funcionamiento del circuito. Por tanto, tienen capacidad de memoria.
+La operación de los circuitos combinacionales se entiende escribiendo las ecuaciones booleanas y sus respectivas tablas de verdad (Abad, 2017).</p>
+
+![jf3](https://github.com/JorgeGallegos99/Producto-Unidad-1/blob/master/Img/jf3.png)
+
+   **Figura 3.**. Tabla de verdad de un circuito combinacional
+El horario laboral de una factoría es de 8 horas diarias, divididas en tres turnos: de 8 a 11 (primer turno), de 11 a 13 (segundo turno), de 13 a 16 (descanso) y de 16 a 19 (tercer turno).
+
 
 ## 5. DIAGRAMAS
 
@@ -34,6 +63,7 @@ Dentro de los circuitos digitales es necesario poder interpretar y analizar cond
 ![Fgimg1.PNG](https://github.com/CFernanda/Producto-Unidad-1/blob/master/Img/Fgimg1.PNG)
 
    **Figura** Funcionamiento del Circuito Votador, Entradas, Proceso y Salida
+   
  * Funcionamiento del Circuito  Asignador de turno se muestra en la figura #.</p>
 
 ![Fgimg1.PNG](https://github.com/CFernanda/Producto-Unidad-1/blob/master/Img/Fgimg1.PNG)p
